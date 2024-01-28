@@ -1,2 +1,2 @@
 # php-psr
-Curso feito pela plataforma alura, sobre a recomendação padrão do PHP.
+Curso feito pela plataforma alura, sobre as recomendações para o PHP criadas pelo PHP-FIG.
